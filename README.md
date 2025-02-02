@@ -2,7 +2,7 @@
 
 Machine Learning Engineer | Data Scientist | Artificial Intelligence | Web Developer | API Developer | Database Developer
 ## Skills
-🔭 **I’m Have Strong Grip Over:** 
+🔭 **I Have Strong Grip Over:** 
 - **Languages:** `Python`, `JavaScript`
 - **Frameworks / Tools / Technologies:** `HTML`, `CSS`, `ReactJS`, `D3JS`, `Ajax`, `JQuery`, `Bootstrap`, `Tailwind CSS`, `JWT`, `Git`, `Linus`, `Numpy`, `Pandas`, `Dask`, `Kafka`, `Airflow`, `Spark`, `Scipy`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `LangChain`, `Transformers`, `GPT-4`, `TensorFlow`, `Keras`, `PyTorch`, `Docker`, `AWS`, `NLTK`, `Spacy`, `Textblob`, `LightGBM`, `Pinecone`, `Ray`, `MLflow`, `TensorRT`, `Kubernetes`, `YOLO`, `Open3D`, `TensorRT`, `Pillow`, `OpenCV`, `PPO`, `Selenium`, `Power BI`
 - 
