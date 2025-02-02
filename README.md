@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tapajyoti Bose! 👋  
+🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast  
 
-<!--
-**subham59036/subham59036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **I’m currently working on:**  
+- Building AI-powered chatbots & NLP models  
+- Deploying ML models on AWS SageMaker  
+- Optimizing deep learning models for production  
 
-Here are some ideas to get you started:
+🌱 **I’m currently learning:**  
+- Generative AI & Large Language Models (LLMs)  
+- MLOps (MLflow, Kubeflow, Airflow)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://yourwebsite.com)  
