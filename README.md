@@ -19,6 +19,7 @@ Machine Learning Engineer | Data Scientist | Artificial Intelligence | Web Devel
 - Contribute to Open Source projects
 ## Contact
 ☎️ **Connect with me:**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/subham59036) 
 [![Twitter](https://img.shields.io/badge/Twitter(X)-Profile-green)](https://x.com/subham59036)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://subham59036.vercel.app) 
