@@ -1,15 +1,14 @@
-# Hi, I'm Tapajyoti Bose! 👋  
-🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast  
+## Hi, I'm Subham Saha!  
+Machine Learning Engineer | Data Scientist | AI Enthusiast | Web Developer | API Developer | Database Development
 
-🔭 **I’m currently working on:**  
-- Building AI-powered chatbots & NLP models  
-- Deploying ML models on AWS SageMaker  
-- Optimizing deep learning models for production  
+**I’m currently working on:** 
 
-🌱 **I’m currently learning:**  
+**I’m currently learning:**  
 - Generative AI & Large Language Models (LLMs)  
 - MLOps (MLflow, Kubeflow, Airflow)  
 
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://yourwebsite.com)  
+**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/subham59036) 
+[![Twitter](https://img.shields.io/badge/Twitter(X)-Profile-green)](https://x.com/subham59036)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://subham59036.vercel.app) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-yellow)](https://fiverr.com/subham59036)
