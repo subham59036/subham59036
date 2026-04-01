@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://subhamsaha.dev/sitemap.xml',
+    sitemap: 'https://subham59036.vercel.app/sitemap.xml',
   };
 }
