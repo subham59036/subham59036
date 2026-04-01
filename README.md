@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center"><a href="https://subham59036.vercel.app" target="_blank"><img src="./src/assets/logo.svg" alt="logo" width="100"></a></p>
 
-## Getting Started
+<h1 align="center"><b>Subham Saha</b></h1>
 
-First, run the development server:
+<p align="center"><b>Distributed Systems | Full Stack | Performance | Consistency</b></p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+_Software Engineer with a deep specialization in designing, building and scaling robust, high-availability backend systems. My expertise is architecting distributed solutions using Javascript, leveraging strong DSAs and System Design principles to solve complex performance, scalability and resiliency challenges_
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## **Core Strengths**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Backend Architecture**: Proficient in NestJS, Typescript and Database/DBMS design. Expert in crafting efficient, concurrent, and secure backend services
+- **Microservices & Scalability**: Proven skill in System Design, Microservices patterns and communication protocols (RPC, REST, WebSockets, Event Streaming). Experienced with API Gateways, Reverse Proxies, Load Balancers and Service Discovery
+- **Full-Stack Foundation**: Competent in ReactJS for frontend integration, complemented by strong knowledge of Computer Networking and Operating Systems
+- **Platform & Reliability**: Strong focus on Observability, Resilience, Security, Containerisation (Docker), CI/CD (GitHub Actions), Orchestration (K8s, Terraform) and cloud platforms (AWS). Proficient in Javascript Concurrency models and application Security best practices.
+- **Supporting Engineering**: Working knowledge of Javascript Profiling and testing methodologies across the stack to ensure code quality and system performanceysis tasks
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## **Key Responsibilities**
 
-## Learn More
+- Contributing to the design and development of low-latency, high-throughput microservices and monolithic APIs using Typescript and NestJS
+- Architecting scalable database schemas, transaction logic and data access layers for complex business domains
+- Implementing critical system design patterns for fault tolerance, service discovery and inter-service communication (RPC, Event Streaming)
+- Building resilient systems with integrated concurrency control, security hardening and comprehensive observability
+- Collaborating across frontend and platform teams to define APIs, deploy services via CI/CD pipelines and ensure system reliability in cloud environments
 
-To learn more about Next.js, take a look at the following resources:
+## **Tech Stack**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+My main tech stack is
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| **Type**           | **Name**                                          |
+| ------------------ | ------------------------------------------------- |
+| **Languages**      | _JavaScript, TypeScript, Java, Python, HTML, CSS_ |
+| **Data**           | _PostgreSQL, MongoDB, Redis, Prisma_              |
+| **Commuication**   | _REST, gRPC, WebSockets_                          |
+| **Infrastructure** | _Docker, Kubernetes, Terraform, GitHub Actions_   |
+| **Observability**  | _Prometheus, Grafana_                             |
+| **Message Broker** | _Kafka_                                           |
+| **Backend**        | _Node.js, Nest.js, Express.js, FastAPI_           |
+| **Cloud**          | _AWS_                                             |
+| **Frontend**       | _React.js, Next.js_                               |
+| **Dev Tools**      | _Git, Bash, Linux_                                |
 
-## Deploy on Vercel
+## **Get in Touch**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+My career is focused on building the foundational backend systems that power scalable, reliable, and efficient applications. I am always open to learning and discussing challenging opportunities in backend architecture, distributed systems and high-performance computing.
