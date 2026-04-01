@@ -1,4 +1,4 @@
-<p align="center"><a href="https://subham59036.vercel.app" target="_blank"><img src="./src/assets/logo.svg" alt="logo" width="100"></a></p>
+<p align="center"><a href="https://subham59036.vercel.app" target="_blank"><img src="./public/logo.svg" alt="logo" width="100"></a></p>
 
 <h1 align="center"><b>Subham Saha</b></h1>
 
