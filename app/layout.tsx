@@ -107,8 +107,8 @@ export const metadata: Metadata = {
   /* Icons */
   icons: {
     icon: [{ url: '/logo.svg' }],
-    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180' }],
-    other: [{ rel: 'mask-icon', url: '/safari-pinned-tab.svg', color: '#000000' }],
+    apple: [{ url: '/logo.svg' }],
+    other: [{ rel: 'mask-icon', url: '/logo.svg' }],
   },
 
   manifest: '/site.webmanifest',
