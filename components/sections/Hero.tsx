@@ -61,7 +61,7 @@ export default function Hero() {
         <div className="photo-frame">
           <div className="photo-inner">
             <Image
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&crop=face&q=80"
+              src="/profile.jpeg"
               alt="Subham Saha"
               fill
               sizes="(max-width: 768px) 200px, 360px"
