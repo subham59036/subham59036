@@ -29,7 +29,7 @@ const syne = Syne({
 
 /* ─── Full SEO Metadata ─── */
 export const metadata: Metadata = {
-  metadataBase: new URL('https://subhamsaha.dev'),
+  metadataBase: new URL('https://subham59036.vercel.app'),
 
   title: {
     default: 'Subham Saha — Distributed Systems Engineer & Full Stack Developer',
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     'Performance Engineer',
   ],
 
-  authors: [{ name: 'Subham Saha', url: 'https://subhamsaha.dev' }],
+  authors: [{ name: 'Subham Saha', url: 'https://subham59036.vercel.app' }],
   creator: 'Subham Saha',
   publisher: 'Subham Saha',
 
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://subhamsaha.dev',
+    url: 'https://subham59036.vercel.app',
     siteName: 'Subham Saha — Portfolio',
     title: 'Subham Saha — Distributed Systems Engineer & Full Stack Developer',
     description:
@@ -136,8 +136,8 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: 'Subham Saha',
-  url: 'https://subhamsaha.dev',
-  image: 'https://subhamsaha.dev/og-image.png',
+  url: 'https://subham59036.vercel.app',
+  image: 'https://subham59036.vercel.app/og-image.png',
   sameAs: [
     'https://github.com/subham59036',
     'https://linkedin.com/in/subham59036',
