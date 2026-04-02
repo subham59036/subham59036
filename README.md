@@ -8,17 +8,17 @@ _Software Engineer with a deep specialization in designing, building and scaling
 
 ## **Core Strengths**
 
-- **Backend Architecture**: Proficient in NestJS, Typescript and Database/DBMS design. Expert in crafting efficient, concurrent, and secure backend services
-- **Microservices & Scalability**: Proven skill in System Design, Microservices patterns and communication protocols (RPC, REST, WebSockets, Event Streaming). Experienced with API Gateways, Reverse Proxies, Load Balancers and Service Discovery
-- **Full-Stack Foundation**: Competent in ReactJS for frontend integration, complemented by strong knowledge of Computer Networking and Operating Systems
-- **Platform & Reliability**: Strong focus on Observability, Resilience, Security, Containerisation (Docker), CI/CD (GitHub Actions), Orchestration (K8s, Terraform) and cloud platforms (AWS). Proficient in Javascript Concurrency models and application Security best practices.
+- **Backend Architecture**: Proficient in `NestJS`, `Typescript` and Database/DBMS design. Expert in crafting efficient, concurrent, and secure backend services
+- **Microservices & Scalability**: Proven skill in System Design, Microservices patterns and communication protocols (`RPC`, `REST`, `WebSockets`, Event Streaming). Experienced with API Gateways, Reverse Proxies, Load Balancers and Service Discovery
+- **Full-Stack Foundation**: Competent in `ReactJS` for frontend integration, complemented by strong knowledge of Computer Networking and Operating Systems
+- **Platform & Reliability**: Strong focus on Observability, Resilience, Security, Containerisation (`Docker`), CI/CD (`GitHub Actions`), Orchestration (`K8s`, `Terraform`) and cloud platforms (`AWS`). Proficient in `Javascript` Concurrency models and application Security best practices.
 - **Supporting Engineering**: Working knowledge of Javascript Profiling and testing methodologies across the stack to ensure code quality and system performanceysis tasks
 
 ## **Key Responsibilities**
 
-- Contributing to the design and development of low-latency, high-throughput microservices and monolithic APIs using Typescript and NestJS
+- Contributing to the design and development of low-latency, high-throughput microservices and monolithic APIs using `Typescript` and `NestJS`
 - Architecting scalable database schemas, transaction logic and data access layers for complex business domains
-- Implementing critical system design patterns for fault tolerance, service discovery and inter-service communication (RPC, Event Streaming)
+- Implementing critical system design patterns for fault tolerance, service discovery and inter-service communication (`RPC`, Event Streaming)
 - Building resilient systems with integrated concurrency control, security hardening and comprehensive observability
 - Collaborating across frontend and platform teams to define APIs, deploy services via CI/CD pipelines and ensure system reliability in cloud environments
 
@@ -28,16 +28,16 @@ My main tech stack is
 
 | **Type**           | **Name**                                          |
 | ------------------ | ------------------------------------------------- |
-| **Languages**      | _JavaScript, TypeScript, Java, Python, HTML, CSS_ |
-| **Data**           | _PostgreSQL, MongoDB, Redis, Prisma_              |
-| **Commuication**   | _REST, gRPC, WebSockets_                          |
-| **Infrastructure** | _Docker, Kubernetes, Terraform, GitHub Actions_   |
-| **Observability**  | _Prometheus, Grafana_                             |
-| **Message Broker** | _Kafka_                                           |
-| **Backend**        | _Node.js, Nest.js, Express.js, FastAPI_           |
-| **Cloud**          | _AWS_                                             |
-| **Frontend**       | _React.js, Next.js_                               |
-| **Dev Tools**      | _Git, Bash, Linux_                                |
+| **Languages**      | _`JavaScript`, `TypeScript`, `Java`, `Python`, `HTML`, `CSS`_ |
+| **Data**           | _`PostgreSQL`, `MongoDB`, `Redis`, `Prisma`_              |
+| **Commuication**   | _`REST`, `gRPC`, `WebSockets`_                          |
+| **Infrastructure** | _`Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`_   |
+| **Observability**  | _`Prometheus`, `Grafana`_                             |
+| **Message Broker** | _`Kafka`_                                           |
+| **Backend**        | _`Node.js`, `Nest.js`, `Express.js`, `FastAPI`_           |
+| **Cloud**          | _`AWS`_                                             |
+| **Frontend**       | _`React.js`, `Next.js`_                               |
+| **Dev Tools**      | _`Git`, `Bash`, `Linux`_                                |
 
 ## **Get in Touch**
 
