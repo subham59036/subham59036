@@ -1242,6 +1242,7 @@ nav.scrolled {
   display: flex;
   gap: 1.5rem;
   width: max-content;
+  padding-top: 4px;
   animation: ticker 35s linear infinite;
 }
 .carousel-track:hover { animation-play-state: paused; }
@@ -1360,26 +1361,6 @@ footer {
   transition: color 0.3s;
 }
 .foot-links a:hover { color: var(--white); }
-
-/* ================================================
-   RESPONSIVE — LAPTOP (769–1280px)
-================================================ */
-@media (min-width: 769px) and (max-width: 1280px) {
-  nav, nav.scrolled { padding-left: 3rem; padding-right: 3rem; }
-  #hero   { padding: 0 3rem; }
-  #about, #skills, #works { padding-left: 3rem; padding-right: 3rem; }
-  #testimonials { padding-left: 3rem; }
-  footer  { padding-left: 3rem; padding-right: 3rem; }
-  .scroll-hint { left: 3rem; }
-
-  .hero-name { font-size: clamp(4rem, 8vw, 7rem); }
-  .photo-frame { width: 300px; height: 380px; }
-  .photo-badge { left: -30px; }
-  .projects-grid, .pubs-grid { grid-template-columns: repeat(2, 1fr); }
-
-  #experience { padding-left: 3rem; padding-right: 3rem; }
-  .exp-timeline { padding-left: 4rem; }
-}
 
 /* ================================================
    RESPONSIVE — MOBILE (≤ 768px)

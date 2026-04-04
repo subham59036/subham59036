@@ -28,8 +28,8 @@ function ProjectCard({
 
 /* ── Publication Card ───────────────────────────────────────────── */
 function PubCard({
-  img, alt, platform, title, desc, readLabel, href,
-}: { img: string; alt: string; platform: string; title: string; desc: string; readLabel: string; href: string }) {
+  img, alt, platform, title, desc, href,
+}: { img: string; alt: string; platform: string; title: string; desc: string; href: string }) {
   return (
     <div className="pub-card">
       <div className="pub-img-wrap" style={{ position: 'relative', height: '180px' }}>
@@ -46,7 +46,7 @@ function PubCard({
         <h3 className="pub-title">{title}</h3>
         <p className="pub-desc">{desc}</p>
         <a href={href} className="pub-read">
-          <i className="fas fa-arrow-right" /> {readLabel}
+          <i className="fas fa-arrow-right" /> Read Blog
         </a>
       </div>
     </div>
