@@ -38,7 +38,7 @@ function PubCard({
           alt={alt}
           fill
           sizes="(max-width: 768px) 100vw, 33vw"
-          style={{ objectFit: 'cover', filter: 'grayscale(100%) contrast(1.1)' }}
+          style={{ objectFit: 'cover' }}
         />
       </div>
       <div className="pub-body">
