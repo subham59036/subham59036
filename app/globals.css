@@ -667,7 +667,7 @@ nav.scrolled {
 .scroll-hint {
   position: absolute;
   bottom: 2.5rem;
-  left: 5rem;
+  left: calc(49%);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -683,6 +683,7 @@ nav.scrolled {
   background: var(--gray-700);
   position: relative;
   overflow: hidden;
+  left: calc(49%);
 }
 .scroll-line::after {
   content: '';
