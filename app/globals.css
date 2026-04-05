@@ -1444,7 +1444,7 @@ footer {
   .photo-badge { display: none; }
   .hero-avail-tag {
     position: absolute;
-    top: 40%;
+    top: 25rem;
     left: calc(50% - 6.3rem);
     transform: translateY(0) rotate(0deg);
   }
