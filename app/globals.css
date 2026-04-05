@@ -235,7 +235,7 @@ nav.scrolled {
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--black);
-  background: var(--neon-cyan);
+  background: linear-gradient(to bottom right, var(--neon-cyan), var(--neon-purple));
   padding: 0.55rem 1.3rem;
   text-decoration: none;
   display: flex;
@@ -356,7 +356,7 @@ nav.scrolled {
   white-space: nowrap;
 }
 .btn-solid {
-  background: var(--neon-cyan);
+  background: linear-gradient(to bottom right, var(--neon-cyan), var(--neon-purple));
   color: var(--black);
   box-shadow: var(--glow-cyan);
 }
@@ -372,7 +372,7 @@ nav.scrolled {
   outline: 1px solid var(--gray-600);
 }
 .btn-ghost:hover {
-  background: var(--neon-mag);
+  background: linear-gradient(to bottom right, var(--neon-cyan), var(--neon-purple));
   color: var(--black);
   outline-color: var(--neon-mag);
   box-shadow: var(--glow-mag);
@@ -557,7 +557,7 @@ nav.scrolled {
   content: '';
   position: absolute;
   inset: 0;
-  background: var(--neon-cyan);
+  background: linear-gradient(to bottom right, var(--neon-cyan), var(--neon-purple));
   transform: translateY(105%);
   transition: transform 0.35s cubic-bezier(0.23, 1, 0.32, 1);
 }
@@ -1314,6 +1314,9 @@ nav.scrolled {
   border-color: var(--neon-cyan);
   transform: translateY(-4px);
   box-shadow: 0 0 24px rgba(0,245,255,0.12);
+  .author-role-txt{
+    color: var(--neon-mag);
+  }
 }
 
 .testi-stars { display: flex; gap: 3px; margin-bottom: 1.2rem; }
