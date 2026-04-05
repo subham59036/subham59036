@@ -138,14 +138,14 @@ body {
 }
 .cursor-ring {
   position: fixed;
-  width: 28px; height: 28px;
+  width: 18px; height: 18px;
   border: 1px solid var(--neon-mag);
   border-radius: 50%;
   pointer-events: none;
   z-index: 9998;
   transform: translate(-50%, -50%);
 }
-.cursor.grow { .cursor-ring { width: 56px; height: 56px; } }
+.cursor.grow { width: 4px; height: 4px; .cursor-ring { width: 36px; height: 36px; } }
 
 /* ================================================
    SCROLL PROGRESS
