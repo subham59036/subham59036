@@ -1437,7 +1437,7 @@ footer {
     gap: 0;
     padding-top: 5.5rem;
     min-height: unset;
-    padding-bottom: 4rem;
+    padding-bottom:10rem;
   }
   .hero-visual { order: -1; padding-top: 0; margin-bottom: 2rem; }
   .photo-frame { width: 200px; height: 255px; }
@@ -1445,7 +1445,7 @@ footer {
   .hero-avail-tag {
     position: absolute;
     top: 25rem;
-    left: calc(50% - 6.3rem);
+    left: calc(50% - 6.8rem);
     transform: translateY(0) rotate(0deg);
   }
   .hero-eyebrow { justify-content: center; }
@@ -1454,7 +1454,7 @@ footer {
   .hero-cta { justify-content: center; }
   .hero-social { justify-content: center; }
   .hero-watermark { display: none; }
-  .scroll-hint { display: none; }
+  .scroll-hint { left: 11rem; }
 
   #about, #skills, #works { padding: 5rem 1.4rem; }
   #experience { padding: 5rem 1.4rem; }
