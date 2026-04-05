@@ -3,7 +3,7 @@
    Note: --font-disp / --font-body / --font-mono are
    injected by next/font via the html className.
 ================================================ */
-*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; cursor: none; }
 
 :root {
   --black:      #000000;
@@ -138,14 +138,14 @@ body {
 }
 .cursor-ring {
   position: fixed;
-  width: 38px; height: 38px;
-  border: 1px solid rgba(0,245,255,0.45);
+  width: 28px; height: 28px;
+  border: 1px solid var(--neon-mag);
   border-radius: 50%;
   pointer-events: none;
   z-index: 9998;
   transform: translate(-50%, -50%);
 }
-.cursor.grow { width: 24px; height: 24px; }
+.cursor.grow { .cursor-ring { width: 56px; height: 56px; } }
 
 /* ================================================
    SCROLL PROGRESS
@@ -504,9 +504,9 @@ nav.scrolled {
   margin-bottom: 1.5rem;
   min-height: 1.5em;
 }
-.hero-role::before { content: '>'; color: var(--neon-cyan); }
+.hero-role::before { content: '>'; color: var(--neon-mag); }
 .typewriter {
-  border-right: 2px solid var(--neon-cyan);
+  border-right: 2px solid var(--neon-mag);
   animation: blink-caret 0.75s step-end infinite;
   text-shadow: var(--glow-cyan);
 }
