@@ -65,6 +65,7 @@ export default function Hero() {
               alt="Subham Saha"
               fill
               sizes="(max-width: 768px) 200px, 360px"
+              unoptimized={false}
               priority
               style={{ objectFit: 'cover' }}
             />
