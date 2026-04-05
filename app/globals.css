@@ -562,7 +562,7 @@ nav.scrolled {
   transition: transform 0.35s cubic-bezier(0.23, 1, 0.32, 1);
 }
 .soc-link i { position: relative; z-index: 1; transition: color 0.25s; }
-.soc-link:hover { border-color: var(--neon-cyan); box-shadow: var(--glow-cyan); }
+.soc-link:hover { border-color: transparent; box-shadow: var(--glow-cyan); }
 .soc-link:hover::after { transform: translateY(0); }
 .soc-link:hover i { color: var(--black); }
 
