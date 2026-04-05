@@ -374,7 +374,7 @@ nav.scrolled {
 .btn-ghost:hover {
   background: linear-gradient(to bottom right, var(--neon-cyan), var(--neon-purple));
   color: var(--black);
-  outline-color: var(--neon-mag);
+  outline-color: transparent;
   box-shadow: var(--glow-mag);
 }
 
@@ -1442,7 +1442,12 @@ footer {
   .hero-visual { order: -1; padding-top: 0; margin-bottom: 2rem; }
   .photo-frame { width: 200px; height: 255px; }
   .photo-badge { display: none; }
-  .hero-avail-tag { display: none; }
+  .hero-avail-tag {
+    position: absolute;
+    top: 40%;
+    left: calc(50% - 6.3rem);
+    transform: translateY(0) rotate(0deg);
+  }
   .hero-eyebrow { justify-content: center; }
   .hero-name { font-size: clamp(3.2rem, 14vw, 5rem); }
   .hero-desc { max-width: 100%; font-size: 0.85rem; }
