@@ -853,7 +853,7 @@ nav.scrolled {
   transition: color 0.3s;
 }
 
-.exp-card:hover .exp-num          { color: rgba(0,245,255,0.05); }
+.exp-card:hover .exp-num          { color: var(--neon-mag); }
 .exp-card:hover .exp-company      { color: var(--neon-cyan); text-shadow: var(--glow-cyan); }
 .exp-card:hover .exp-role         { color: var(--gray-300); }
 .exp-card:hover .exp-type,
