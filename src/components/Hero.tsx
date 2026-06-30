@@ -44,14 +44,24 @@ export default function Hero() {
         <div
           className="inline-flex items-center gap-1.5 mb-6 px-3 py-1.5 rounded-full text-xs"
           style={{
-            border: '1px solid var(--color-stroke)',
-            background: 'var(--color-elevated)',
-            color: 'var(--color-dim)',
+            background: 'rgba(75,121,230,0.12)',
+            color: 'var(--color-accent)',
             fontFamily: 'var(--font-mono)',
+            fontSize: '0.65rem',
+            letterSpacing: '0.05em',
           }}
         >
-          <MapPinIcon size={12} />
-          Kolkata, India
+          <span
+            style={{
+              width: 5,
+              height: 5,
+              borderRadius: '50%',
+              background: 'var(--color-accent)',
+              animation: 'blink 2s ease infinite',
+              display: 'inline-block',
+            }}
+          />
+          Currently Available
         </div>
 
         {/* Name */}
